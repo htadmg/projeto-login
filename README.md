@@ -1,7 +1,7 @@
 # projeto-login
 Projeto tela de login
 Este é um projeto simples que apresenta um formulário de login em uma página web.
-![Logo da Minha Aplicação](blob:https://web.whatsapp.com/968b0044-0926-486b-85d7-a9d36ab474b5)
+![Logo da Minha Aplicação](https://web.whatsapp.com/968b0044-0926-486b-85d7-a9d36ab474b5)
 ## Conteúdo
 
 - `index.html`: Este arquivo contém o código HTML para a página de login.
