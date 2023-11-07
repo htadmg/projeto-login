@@ -20,6 +20,3 @@ Este é um projeto simples que apresenta um formulário de login em uma página 
 - Um link "Esqueci a Senha" permite que os usuários redefinam suas senhas.
 - A página faz uso de ícones da fonte [Material Symbols Outlined](https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined) do Google Fonts.
 
-## Autor
-
-- [Seu Nome/Autor](https://github.com/seu-username)
