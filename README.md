@@ -1,7 +1,11 @@
 # projeto-login
+
+![image](https://github.com/htadmg/projeto-login/assets/124289385/e458662e-a971-45aa-9806-850c435c0782)
+
 Projeto tela de login
 Este é um projeto simples que apresenta um formulário de login em uma página web.
-![Logo da Minha Aplicação](https://web.whatsapp.com/968b0044-0926-486b-85d7-a9d36ab474b5)
+## Link para o Projeto
+Confira o projeto no [Login](https://projeto-login-pied.vercel.app/).
 ## Conteúdo
 
 - `index.html`: Este arquivo contém o código HTML para a página de login.
@@ -21,4 +25,4 @@ Este é um projeto simples que apresenta um formulário de login em uma página 
 - A página faz uso de ícones da fonte [Material Symbols Outlined](https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined) do Google Fonts.
 
 ## Autor
-Agata Domingues Farias
+Este projeto foi desenvolvido por [Agata Domingues Farias](https://www.linkedin.com/in/agatadominguesfarias/) como parte de um estudo prático.
